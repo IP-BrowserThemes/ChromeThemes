@@ -1,0 +1,24 @@
+{
+    "name": "All Black - Full Dark Theme/Black Theme",
+    "version": "1.0.0",
+    "description": "All black mode for the avid seeker of true darkness",
+    "manifest_version": 2,
+    "theme": {
+        "colors": {
+            "frame": [0, 0, 0],
+            "frame_inactive": [0, 0, 0],
+            "toolbar": [0, 0, 0],
+            "tab_text": [255, 255, 255],
+            "tab_background_text": [255, 255, 255],
+            "bookmark_text": [255, 255, 255],
+            "ntp_background": [0, 0, 0],
+            "ntp_text": [255, 255, 255],
+            "ntp_link": [255, 255, 255],
+            "button_background": [0, 0, 0, 1],
+            "omnibox_text": [255, 255, 255],
+            "omnibox_background": [0, 0, 0],
+            "omnibox_expanded_background": [0, 0, 0]
+        },
+        "tints": { "buttons": [0, 0, 1] }
+    }
+}
