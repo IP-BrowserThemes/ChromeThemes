@@ -1,0 +1,21 @@
+{
+    "name": "Into The Black Hole - True Amoled Dark/Black Theme - Alternative - Gray",
+    "version": "1.0.0",
+    "description": "True Dark Black Theme, easy for the eyes, fitted for any type of display, but especially for Amoled screens",
+    "manifest_version": 2,
+    "theme": {
+        "colors": {
+            "frame": [0, 0, 0],
+            "frame_inactive": [0, 0, 0],
+            "toolbar": [0, 0, 0],
+            "tab_text": [255, 255, 255],
+            "tab_background_text": [150, 150, 150],
+            "bookmark_text": [255, 255, 255],
+            "ntp_background": [0, 0, 0],
+            "ntp_text": [255, 255, 255],
+            "ntp_link": [255, 255, 255],
+            "button_background": [0, 0, 0, 1]
+        },
+        "tints": { "buttons": [0, 0, 1] }
+    }
+}
